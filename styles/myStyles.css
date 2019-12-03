@@ -1,0 +1,8 @@
+.center {
+    width:800px;
+    margin:0 auto;
+}
+button.btn-right {
+  position: relative;
+  left: 20px;
+}
